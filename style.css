@@ -1,0 +1,214 @@
+/* DB UX Theme für Slidev */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* DB Primärfarben */
+  --db-red: #EC0016;
+  --db-yellow: #FFD800;
+  --db-orange: #F39200;
+  --db-burgundy: #A9455D;
+  --db-pink: #E93E8F;
+  --db-violet: #814997;
+  --db-blue: #1455C0;
+  --db-cyan: #309FD1;
+  --db-turquoise: #00A099;
+  --db-green: #408335;
+  --db-light-green: #63A615;
+  --db-warm-grey: #858379;
+  --db-cool-grey: #646973;
+  --db-black: #000000;
+  --db-white: #FFFFFF;
+  
+  /* Slidev Theme Variables */
+  --slidev-theme-primary: var(--db-red);
+  --slidev-theme-secondary: var(--db-blue);
+  --slidev-theme-accent: var(--db-yellow);
+  --slidev-theme-background: var(--db-white);
+  --slidev-theme-foreground: var(--db-black);
+  --slidev-theme-muted: var(--db-cool-grey);
+}
+
+/* Schriftarten */
+.slidev-layout {
+  font-family: 'DB Neo Office', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  color: var(--db-black);
+  background: var(--db-white);
+}
+
+/* Center Layout - Zentrierte Folien */
+.slidev-layout.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.slidev-layout.center h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  color: var(--db-red);
+  margin: 0;
+}
+
+/* Titel-Styling */
+h1 {
+  color: var(--db-red);
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  color: var(--db-blue);
+  font-weight: 600;
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+h3 {
+  color: var(--db-violet);
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Text-Styling */
+p {
+  color: var(--db-black);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.text-lg {
+  font-size: 1.25rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.opacity-60 {
+  opacity: 0.6;
+}
+
+.opacity-40 {
+  opacity: 0.4;
+}
+
+/* Layout-spezifische Styles */
+.slidev-layout.cover h1 {
+  background: linear-gradient(45deg, var(--db-red), var(--db-blue));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3rem;
+}
+
+.slidev-layout.section {
+  background: linear-gradient(135deg, var(--db-red) 0%, var(--db-blue) 100%);
+  color: var(--db-white);
+}
+
+.slidev-layout.section h1 {
+  color: var(--db-white);
+  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  font-size: 3rem;
+}
+
+.slidev-layout.end {
+  background: var(--db-red);
+  color: var(--db-white);
+}
+
+.slidev-layout.end h1 {
+  color: var(--db-white);
+}
+
+/* Akzente und Highlights */
+.text-primary {
+  color: var(--db-red);
+}
+
+.text-secondary {
+  color: var(--db-blue);
+}
+
+.text-accent {
+  color: var(--db-yellow);
+}
+
+/* Buttons und interaktive Elemente */
+.btn-primary {
+  background: var(--db-red);
+  color: var(--db-white);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background: var(--db-burgundy);
+}
+
+/* Code-Blöcke */
+code {
+  background: rgba(20, 85, 192, 0.1);
+  color: var(--db-blue);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: 'Fira Code', monospace;
+}
+
+pre {
+  background: rgba(20, 85, 192, 0.05);
+  border-left: 4px solid var(--db-blue);
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+/* Listen */
+ul li::marker {
+  color: var(--db-red);
+}
+
+ol li::marker {
+  color: var(--db-red);
+}
+
+/* Links */
+a {
+  color: var(--db-blue);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+a:hover {
+  border-bottom-color: var(--db-blue);
+}
+
+/* Spezielle DB-Klassen */
+.db-gradient {
+  background: linear-gradient(45deg, var(--db-red), var(--db-blue));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.db-card {
+  background: var(--db-white);
+  border: 1px solid rgba(100, 105, 115, 0.2);
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.db-highlight {
+  background: rgba(255, 216, 0, 0.2);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "genai-sw-workshop",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "dev-presenter": "slidev --open speaker-notes.md",
+    "export": "slidev export",
+    "export-pdf": "slidev export --format pdf",
+    "export-png": "slidev export --format png",
+    "export-pptx": "slidev export --format pptx"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "^1.40.0"
+  }
+}
