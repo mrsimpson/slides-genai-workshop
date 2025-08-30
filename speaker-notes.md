@@ -22,7 +22,7 @@
 
 ---
 
-## Begrüßung
+## Worum geht's
 
 **Lernziel:** Workshop-Ziele klären, Kernbotschaft etablieren, Vertrauen schaffen
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Naiv
+## Naiv Software prompten
 
 **Lernziel:** Ersten positiven Kontakt mit GenAI herstellen, "Magie-Gefühl" erzeugen
 

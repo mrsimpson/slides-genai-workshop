@@ -21,22 +21,22 @@ css: style.css
 layout: center
 ---
 
+# Generative KI <br/> in der Software-Entwicklung
+
 <style>
   h1 {
     line-height: unset
   }
 </style>
 
-# Generative KI in der Software-Entwicklung
-
-<div class="text-lg opacity-60">Workshop für Nicht-Softwerker</div>
-<div class="text-sm opacity-40 mt-4">Oliver Jägle</div>
+<div class="text-2xl opacity-60 mt-4">Workshop für Nicht-Softwerker</div>
+<div class="text-2xl opacity-40 mt-12">Oliver Jägle</div>
 
 ---
 layout: center
 ---
 
-# Begrüßung
+# Worum geht's?
 
 <!--
 **Lernziel:** Workshop-Ziele klären, Kernbotschaft etablieren, Vertrauen schaffen
@@ -50,7 +50,7 @@ Heute haben wir selbst mit KI gearbeitet und verstanden, warum das die Zukunft d
 layout: center
 ---
 
-# Naiv
+# Naiv Software prompten
 
 <!--
 **Lernziel:** Ersten positiven Kontakt mit GenAI herstellen, "Magie-Gefühl" erzeugen
