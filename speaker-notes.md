@@ -288,6 +288,30 @@
 
 ---
 
+## 10x
+
+**Lernziel:** 10x als "breiter werden" statt "schneller werden" erleben
+
+**Was wir jetzt tun**
+- Praktische Aufgabe: Präsentation zu GenAI in der SW-Entwicklung erstellen (10 Min)
+- Prompt: "Ich möchte eine Präsentation zu GenAI in der SW-Entwicklung halten. Hilf mir, meine Gedanken zu strukturieren und zielgruppengerechte Folien zu erstellen"
+- Beobachten: Teilnehmer arbeiten in fremder Domäne
+- Ergebnis diskutieren
+
+<!--
+**Beobachtungen**
+- Schaffen sie es, in einer fremden Domäne zu arbeiten?
+- Verstehen sie den Unterschied zu "schneller werden"?
+- Erleben sie das "10x enabled" Gefühl?
+
+**Reflexion**
+- "Das ist 10x - nicht 10x schneller, sondern 10x breiter in den Fähigkeiten"
+- "Ihr könnt plötzlich Dinge, die ihr nie gelernt habt"
+- "Der Paradigmenwechsel: Von Spezialisten zu Orchestratoren"
+-->
+
+---
+
 ## Unmöglich
 
 **Lernziel:** Paradigmenwechsel von "schneller" zu "enabled" etablieren
@@ -435,45 +459,53 @@
 **Lernziel:** Skill-Transformation verstehen, Gap-Analyse durchführen
 
 **Was wir jetzt tun**
+- Paradigmenwechsel erklären: imperativ → explorativ arbeiten
 - 10 Minuten interaktive Skill-Matrix Session
-- Alte vs. neue Skills gegenüberstellen
+- Neue vs. alte Skills gegenüberstellen
 - Teilnehmer erstellen Gap-Analyse für ihre Teams
 - Diskussion der Ergebnisse
 
 <!--
 **Beobachtungen**
+- Verstehen sie den Paradigmenwechsel von imperativ zu explorativ?
 - Können sie die Skill-Transformation nachvollziehen?
 - Identifizieren sie realistische Gaps?
 - Entwickeln sie konkrete Ideen?
 
 **Reflexion**
-- "Alte Skills bleiben wichtig, neue Skills werden kritisch"
-- "Context Engineering, Tool-Orchestrierung, KI-Output-Bewertung"
+- "Entwickler arbeiten bisher imperativ - explorativ arbeiten ist ungewohnt"
+- "Context Engineering wird zur Schlüsselkompetenz"
+- "Prompten und viel Lesen sind neue Arbeitsweisen"
+- "TDD und QS-Methoden müssen für KI-Kontext neu erlernt werden"
 - "Erstellt eine Skill-Gap-Analyse für eure Teams"
 - "Wo sind die größten Lücken?"
 -->
 
 ---
 
-## Governance
+## Rahmenbedingungen
 
-**Lernziel:** Organisatorische Rahmenbedingungen definieren
+**Lernziel:** Organisatorische Rahmenbedingungen für KI-Entwicklung definieren
 
 **Was wir jetzt tun**
 - 10 Minuten strukturierte Diskussion
 - 5 Leitfragen durchgehen
+- Fokus auf KI-optimierte Prozesse und Strukturen
 - Maßnahmen-Brainstorming
 - Konkrete nächste Schritte sammeln
 
 <!--
 **Beobachtungen**
-- Entwickeln sie konkrete Ideen?
-- Sehen sie die Dringlichkeit?
+- Verstehen sie den Unterschied zwischen Regeln und Rahmenbedingungen?
+- Entwickeln sie konkrete Ideen für maschinenlesbare Vorgaben?
+- Sehen sie die Dringlichkeit von Docs-as-Code?
 - Können sie Verantwortlichkeiten zuordnen?
 
 **Reflexion**
-- "Welche Inhalte müssen 'KI-ready' werden?"
-- "Wie vermittelt ihr 'Context Engineering'?"
+- "Nicht Regeln aufstellen - Rahmenbedingungen schaffen"
+- "Maschinenlesbare Vorgaben und Standards entwickeln"
+- "Prozesse, die auf KI-Agenten zugeschnitten sind"
+- "Zentrale Wissensquellen und Docs-as-Code"
 - "Welche Prozesse standardisiert ihr zuerst?"
 - "Ziel: Grundlage für euren Maßnahmenplan schaffen"
 -->

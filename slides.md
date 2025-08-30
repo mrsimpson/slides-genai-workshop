@@ -333,14 +333,19 @@ layout: center
 
 **Skill-Transformation verstehen:**
 
-**Alte Skills (bleiben wichtig):**
-- Problemlösung, Systemdenken, Qualitätsbewusstsein
+**Paradigmenwechsel:**
+- **Früher:** Imperativ arbeiten in imperativen Programmiersprachen
+- **Heute:** Explorativ arbeiten mit KI-Systemen
 
 **Neue Skills (werden kritisch):**
-- Context Engineering
-- Tool-Orchestrierung  
-- KI-Output-Bewertung
-- Workflow-Design
+- Context Engineering - Kontext strukturiert bereitstellen
+- Prompten und viel Lesen - neue Arbeitsweise
+- Tool-Orchestrierung mit KI-Agenten
+- KI-Output-Bewertung und -Verfeinerung
+- TDD und QS-Methoden neu erlernen für KI-Kontext
+
+**Alte Skills (bleiben wichtig):**
+- Problemlösung, Systemdenken, Qualitätsbewusstsein
 
 **Eure Aufgabe:** Skill-Gap-Analyse für eure Teams. Was können sie bereits? Was müssen sie lernen?
 -->
@@ -349,12 +354,12 @@ layout: center
 layout: center
 ---
 
-# Governance
+# Rahmenbedingungen
 
 <!--
-**Lernziel:** Organisatorische Rahmenbedingungen definieren
+**Lernziel:** Organisatorische Rahmenbedingungen für KI-Entwicklung definieren
 
-**Organisatorische Rahmenbedingungen definieren:**
+**Rahmenbedingungen schaffen (nicht Regeln aufstellen):**
 
 **Leitfragen:**
 1. Welche Inhalte müssen "KI-ready" werden?
@@ -362,6 +367,13 @@ layout: center
 3. Welche KI-Tool-Guidelines braucht ihr?
 4. Welche Prozesse standardisiert ihr zuerst?
 5. Wie messt ihr KI-unterstützte Entwicklung?
+
+**Fokus auf:**
+- Maschinenlesbare Vorgaben und Standards
+- Dokumentierte Prozesse, die auf KI-Agenten zugeschnitten sind
+- Zentrale Wissensquellen und Dokumentation
+- Docs-as-Code Ansätze
+- KI-optimierte Workflows
 
 **Ziel:** Grundlage für euren Maßnahmenplan schaffen.
 -->
