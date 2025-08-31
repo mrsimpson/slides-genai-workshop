@@ -24,6 +24,16 @@ npm run dev-presenter
 
 Öffnet die Präsentation im Presenter-Modus mit Ihren Speaker Notes und Teilnehmer-Inhalten.
 
+## Build für GitHub Pages
+
+```bash
+npm run build-both
+```
+
+Erstellt beide Präsentationen mit korrektem Routing:
+- Root (/) → Hauptpräsentation
+- /speaker → Speaker Notes
+
 ## Export-Optionen
 
 ### PDF Export
@@ -85,3 +95,11 @@ Das Theme verwendet die offiziellen Deutsche Bahn Farben:
 - **Für Workshopleiter:** `npm run dev-presenter` für Speaker Notes
 - **Für Teilnehmer:** `npm run dev` für saubere Folien mit Lerninhalten
 - **Nachbereitung:** Teilnehmer erhalten die Folien mit integrierten Notizen
+
+## GitHub Pages Deployment
+
+Das Projekt ist für automatisches Deployment auf GitHub Pages konfiguriert:
+- Push auf `main` Branch triggert automatisches Deployment
+- Beide Präsentationen werden verfügbar unter:
+  - `https://[username].github.io/[repo]/` (Hauptpräsentation)
+  - `https://[username].github.io/[repo]/speaker` (Speaker Notes)
