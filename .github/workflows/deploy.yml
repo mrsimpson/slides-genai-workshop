@@ -33,11 +33,12 @@ jobs:
         run: nci
 
       - name: Build both presentations
-        run: npx slidev build slides.md speaker-notes.md --base /${{github.event.repository.name}}/
+        run: |
+          npx slidev build slides.md --base /${{github.event.repository.name}}/
+          npx slidev build speaker-notes.md --base /${{github.event.repository.name}}/speaker/ --out dist/speaker-notes
 
       - name: Setup routing
         run: |
-          cp -r dist/slides/* dist/
           mkdir -p dist/speaker
           cp -r dist/speaker-notes/* dist/speaker/
 
