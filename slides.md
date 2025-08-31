@@ -13,9 +13,9 @@ mdc: true
 aspectRatio: 16/9
 canvasWidth: 980
 fonts:
-  sans: '"DB Neo Office", Inter, sans-serif'
-  serif: '"DB Neo Office", Inter, serif'
-  mono: "Fira Code"
+  sans: 'Inter'
+  serif: 'Inter'
+  mono: 'Fira Code'
 colorSchema: light
 css: style.css
 layout: center
