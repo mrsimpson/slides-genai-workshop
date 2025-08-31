@@ -32,15 +32,11 @@ jobs:
       - name: Install dependencies
         run: nci
 
-      - name: Build both presentations
-        run: |
-          npx slidev build slides.md --base /${{github.event.repository.name}}/
-          npx slidev build speaker-notes.md --base /${{github.event.repository.name}}/speaker/ --out dist/speaker-notes
+      - name: Build main presentation
+        run: npx slidev build slides.md --base /${{github.event.repository.name}}/
 
-      - name: Setup routing
-        run: |
-          mkdir -p dist/speaker
-          cp -r dist/speaker-notes/* dist/speaker/
+      - name: Build speaker notes
+        run: npx slidev build speaker-notes.md --base /${{github.event.repository.name}}/speaker/ --out dist/speaker
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

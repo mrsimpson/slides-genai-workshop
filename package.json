@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "build-both": "slidev build slides.md && slidev build speaker-notes.md --out dist/speaker-notes && npm run setup-routing",
-    "setup-routing": "mkdir -p dist/speaker && cp -r dist/speaker-notes/* dist/speaker/",
+    "build-both": "slidev build slides.md && slidev build speaker-notes.md --out dist/speaker",
     "dev": "slidev --open",
     "dev-presenter": "slidev --open speaker-notes.md",
     "export": "slidev export",
