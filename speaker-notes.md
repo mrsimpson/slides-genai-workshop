@@ -92,31 +92,6 @@
 
 ---
 
-## Kollaboration
-
-**Lernziel:** Paradigmenwechsel von Delegation zu Kollaboration erleben
-
-**Was wir jetzt tun**
-- Neuer Prompt: "Hilf mir, eine passende To-do App für meinen Anwendungsfall zu entwerfen. Stelle mir Fragen dazu."
-- 10 Minuten praktische Arbeit
-- KI stellt Rückfragen, Teilnehmer antworten
-- Unterschiede zum ersten Versuch beobachten
-
-<!--
-**Beobachtungen**
-- Stellt die KI wirklich bessere Fragen?
-- Denken die Teilnehmer mehr über ihre Anforderungen nach?
-- Ist das Ergebnis spezifischer und besser?
-
-**Reflexion**
-- "Beobachtet den Unterschied: Die KI stellt gezielte Fragen"
-- "Ihr denkt über eure Anforderungen nach"
-- "Das ist der Paradigmenwechsel: Von Delegation zu Kollaboration"
-- "Die KI wird zu eurem Engineering-Partner, nicht zu eurem Ersatz"
--->
-
----
-
 ## Transfer
 
 **Lernziel:** Konzept auf eigene Arbeitsdomäne übertragen
@@ -213,6 +188,50 @@
 - "In Block 2 schauen wir uns an, wie ihr das systematisch nutzen könnt"
 - "Kontext ist nicht nur Information - es ist Erinnerung und Kontinuität"
 
+-->
+
+---
+
+## Kollaboration
+
+**Lernziel:** Paradigmenwechsel von Delegation zu Kollaboration erleben
+
+**Was wir jetzt tun**
+- Neuer Prompt: "Hilf mir, eine passende To-do App für meinen Anwendungsfall zu entwerfen. Stelle mir Fragen dazu."
+- 10 Minuten praktische Arbeit
+- KI stellt Rückfragen, Teilnehmer antworten
+- Unterschiede zum ersten Versuch beobachten
+
+<!--
+**Beobachtungen**
+- Stellt die KI wirklich bessere Fragen?
+- Denken die Teilnehmer mehr über ihre Anforderungen nach?
+- Ist das Ergebnis spezifischer und besser?
+
+**Reflexion**
+- "Beobachtet den Unterschied: Die KI stellt gezielte Fragen"
+- "Ihr denkt über eure Anforderungen nach"
+- "Das ist der Paradigmenwechsel: Von Delegation zu Kollaboration"
+- "Die KI wird zu eurem Engineering-Partner, nicht zu eurem Ersatz"
+-->
+
+---
+
+## Transfer reprise
+
+**Lernziel:** Methodik des Explorativen Arbeitens auf eigene Arbeitsdomäne übertragen
+
+**Was wir jetzt tun**
+- Gleiche Aufgabe an BahnGPT wie zuvor, aber...
+- Kollaborative Herangehensweise für gleiche Themen (5 Min)
+
+<!--
+**Beobachtungen**
+- Sehen sie den Qualitätsunterschied?
+- Verstehen sie den Transfer auf ihre Domäne?
+
+**Reflexion**
+- "Welcher Ansatz führte zu besseren Ergebnissen?"
 -->
 
 ---

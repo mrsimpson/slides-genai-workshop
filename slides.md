@@ -78,32 +78,14 @@ layout: center
 layout: center
 ---
 
-# Kollaboration
-
-<!--
-**Lernziel:** Paradigmenwechsel von Delegation zu Kollaboration erleben
-
-**Der Paradigmenwechsel:** Von Delegation zu Kollaboration.
-
-**Was wir erlebt haben:** Mit dem Prompt "Hilf mir, eine passende To-do App für meinen Anwendungsfall zu entwerfen. Stelle mir Fragen dazu" stellte die KI gezielte Rückfragen. Das Ergebnis wurde spezifischer und besser.
-
-**Kernbotschaft:** Die KI wird zu unserem Engineering-Partner, nicht zu unserem Ersatz.
--->
-
----
-layout: center
----
-
 # Transfer
 
 <!--
 **Lernziel:** Konzept auf eigene Arbeitsdomäne übertragen
 
-**Übertragung auf eure Domäne:** Das Prinzip funktioniert in jeder Domäne - auch in eurer.
+**Was wir getestet haben:** Präsentationsskripte zu euren eigenen Themen – ganz einfach imperativ.
 
-**Was wir getestet haben:** Präsentationsskripte zu euren eigenen Themen - erst naiv, dann kollaborativ.
-
-**Ergebnis:** Der kollaborative Ansatz führte zu deutlich besseren Ergebnissen.
+**Ergebnis:** Es gibt ein schnelles Ergebnis – unbekannter Qualität
 -->
 
 ---
@@ -161,6 +143,33 @@ layout: center
 layout: center
 ---
 
+# Kollaboration
+
+<!--
+**Lernziel:** Paradigmenwechsel von Delegation zu Kollaboration erleben
+
+**Der Paradigmenwechsel:** Von Delegation zu Kollaboration.
+
+**Was wir erlebt haben:** Mit dem Prompt "Hilf mir, eine passende To-do App für meinen Anwendungsfall zu entwerfen. Stelle mir Fragen dazu" stellte die KI gezielte Rückfragen. Das Ergebnis wurde spezifischer und besser.
+
+**Kernbotschaft:** Die KI wird zu unserem Engineering-Partner, nicht zu unserem Ersatz.
+-->
+
+---
+
+## Transfer reprise
+<!--
+**Lernziel:** Konzept des explorativen Arbeitens auf eigene Arbeitsdomäne übertragen
+
+**Was wir getestet haben:** Präsentationsskripte zu euren eigenen Themen - erst naiv, dann explorativ.
+
+**Ergebnis:** Der explorative Ansatz führte zu deutlich besseren Ergebnissen.
+-->
+
+---
+layout: center
+---
+
 # TQM
 
 <!--
@@ -185,7 +194,7 @@ layout: center
 <!--
 **Lernziel:** Übergang zu Block 2 vorbereiten, Neugier wecken
 
-**Was wir erlebt haben:** Grundlagen verstanden - von naiv zu kollaborativ, Kontext als Erfolgsfaktor, TQM-Prinzipien für GenAI.
+**Was wir erlebt haben:** Grundlagen verstanden - von naiv zu explorativ, Kontext als Erfolgsfaktor, TQM-Prinzipien für GenAI.
 
 **Vorschau auf Block 2:** Jetzt wird es praktisch - wie macht ihr eure Engineers zu "10x enabled" Orchestratoren? Context Engineering, Tool-Orchestrierung, organisatorische Transformation.
 
